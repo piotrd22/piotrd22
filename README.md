@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I am a student of Practical Computer Science at the University of Gdansk aspiring to become a Software Developer in the future
+
+📫 How to reach me:
+- https://www.linkedin.com/in/piotr-damrych-146a1421a/
+- email: piotr.damrych@icloud.com / piotr.damrych2002@gmail.com
 
 <!--
 **piotrd22/piotrd22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
