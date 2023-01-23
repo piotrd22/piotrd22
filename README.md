@@ -1,5 +1,13 @@
 ### Hi there 👋 I am a student of Practical Computer Science at the University of Gdansk aspiring to become a Software Developer in the future
 
+🖥️ Skills:
+- Node.js/Express
+- JS/React/Redux
+- Python/Flask
+- Scala/Akka
+- CSS/SCSS/Tailwind
+- MongoDB/SQL/Neo4j
+
 📫 How to reach me:
 - https://www.linkedin.com/in/piotr-damrych-146a1421a/
 - email: piotr.damrych@icloud.com / piotr.damrych2002@gmail.com
