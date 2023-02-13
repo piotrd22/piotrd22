@@ -1,8 +1,9 @@
 ### Hi there 👋 I am a student of Practical Computer Science at the University of Gdansk aspiring to become a Software Developer in the future
 
 🖥️ Skills:
-- Node.js/Express
-- JS/React/Redux
+- JS/TS
+- Node.js/Express/NestJS
+- React/Redux
 - Python/Flask
 - Scala/Akka
 - CSS/SCSS/Tailwind
