@@ -2,12 +2,16 @@
 
 🖥️ Skills:
 - JS/TS
-- Node.js/Express/NestJS
-- React/Redux
+  - Express/NestJS
+  - React/Redux
 - Python/Flask
 - Scala/Akka
 - CSS/SCSS/Tailwind
 - MongoDB/SQL/Neo4j
+
+🌱 Currently learning:
+- Go
+- Java
 
 📫 How to reach me:
 - https://www.linkedin.com/in/piotr-damrych-146a1421a/
