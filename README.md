@@ -5,13 +5,16 @@
   - Express/NestJS
   - React/Redux
 - Python/Flask
+- Go/Gin
+- Java
 - Scala/Akka
-- CSS/SCSS/Tailwind
 - MongoDB/SQL/Neo4j
+- Docker
+- CSS/SCSS/Tailwind
 
 🌱 Currently learning:
-- Go
-- Java
+- Kubernetes
+- Nginx
 
 📫 How to reach me:
 - https://www.linkedin.com/in/piotr-damrych-146a1421a/
