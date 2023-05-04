@@ -15,6 +15,7 @@
 🌱 Currently learning:
 - Kubernetes
 - Nginx
+- Spring
 
 📫 How to reach me:
 - https://www.linkedin.com/in/piotr-damrych-146a1421a/
