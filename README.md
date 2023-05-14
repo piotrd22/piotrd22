@@ -3,19 +3,21 @@
 🖥️ Skills:
 - JS/TS
   - Express/NestJS
-  - React/Redux
+  - React/Redux/NextJS
+- Java
 - Python/Flask
 - Go/Gin
-- Java
 - Scala/Akka
 - MongoDB/SQL/Neo4j
 - Docker
 - CSS/SCSS/Tailwind
+- Bash
+- Nginx
 
 🌱 Currently learning:
 - Kubernetes
-- Nginx
-- Spring
+- Spring Boot
+- Keycloak
 
 📫 How to reach me:
 - https://www.linkedin.com/in/piotr-damrych-146a1421a/
