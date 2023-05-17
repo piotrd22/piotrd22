@@ -1,27 +1,31 @@
-### Hi there 👋 I am a student of Practical Computer Science at the University of Gdansk aspiring to become a Software Developer in the future
+### Hi there 👋 
+#### Computer Science student at the University of Gdansk, aspiring Software Developer
 
-🖥️ Skills:
-- JS/TS
-  - Express/NestJS
-  - React/Redux/NextJS
-- Java
-- Python/Flask
-- Go/Gin
-- Scala/Akka
-- MongoDB/SQL/Neo4j
-- Docker
-- CSS/SCSS/Tailwind
-- Bash
-- Nginx
-
-🌱 Currently learning:
-- Kubernetes
-- Spring Boot
-- Keycloak
+```javascript
+const me = {
+  name: "Piotr",
+  spoken_languages: ["Polish", "English"],
+  skills: {
+    JavaScriptTypeScript: [
+      ["Node", "Express", "Nest"],
+      ["React", "Redux", "Next"],
+    ],
+    Java: ["Spring Boot"],
+    Go: ["Gin"],
+    Scala: ["Akka"],
+    Python: ["Flask"],
+    Databases: ["Mongo", "SQL", "Neo4j"],
+    Devops: ["Docker", "Nginx"],
+    Styling: ["CSS", "SCSS", "Tailwind"],
+    Other: ["Bash", "Git", "Testing"],
+  },
+  currently_learning: ["K8s", "Keycloak", "Spring Boot"],
+};
+```
 
 📫 How to reach me:
 - https://www.linkedin.com/in/piotr-damrych-146a1421a/
-- email: piotr.damrych@icloud.com / piotr.damrych2002@gmail.com
+- piotr.damrych@icloud.com
 
 <!--
 **piotrd22/piotrd22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
