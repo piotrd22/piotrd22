@@ -17,7 +17,7 @@ const me = {
     Databases: ["Mongo", "SQL", "Neo4j"],
     Devops: ["Docker", "Nginx"],
     Styling: ["CSS", "SCSS", "Tailwind"],
-    Other: ["Bash", "Git", "Testing"],
+    Others: ["Bash", "Git", "Testing"],
   },
   currently_learning: ["K8s", "Keycloak", "Spring Boot"],
 };
