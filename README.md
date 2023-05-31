@@ -10,16 +10,16 @@ const me = {
       ["Node", "Express", "Nest"],
       ["React", "Redux", "Next"],
     ],
-    Java: ["Spring Boot"],
+    Java: ["Spring Boot", "Spring Data JPA", "Spring Security", "Maven"],
     Go: ["Gin"],
     Scala: ["Akka"],
     Python: ["Flask"],
-    Databases: ["Mongo", "SQL", "Neo4j"],
-    Devops: ["Docker", "Nginx"],
+    Databases: ["Mongo", "SQL", "Neo4j", "Redis"],
+    Devops: ["Docker", "Nginx", "Github Actions"],
     Styling: ["CSS", "SCSS", "Tailwind"],
     Others: ["Bash", "Git", "Testing"],
   },
-  currently_learning: ["K8s", "Keycloak", "Spring Boot"],
+  currently_learning: ["K8s", "Keycloak"],
 };
 ```
 
