@@ -13,7 +13,7 @@ const me = {
     Java: ["Spring Boot", "Spring Data JPA", "Spring Security", "Maven"],
     Go: ["Gin"],
     Scala: ["Akka"],
-    Python: ["Flask"],
+    Python: ["Flask", "Numpy", "Pandas", "Keras"],
     Databases: ["Mongo", "SQL", "Neo4j", "Redis"],
     Devops: ["Docker", "Nginx", "Github Actions"],
     Styling: ["CSS", "SCSS", "Tailwind"],
