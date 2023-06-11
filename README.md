@@ -11,7 +11,7 @@ const me = {
       ["React", "Redux", "Next"],
     ],
     Java: ["Spring Boot", "Spring Data JPA", "Spring Security", "Maven"],
-    Go: ["Gin"],
+    Go: ["Gin", "GORM"],
     Scala: ["Akka"],
     Python: ["Flask", "Numpy", "Pandas", "Keras"],
     Databases: ["Mongo", "SQL", "Neo4j", "Redis"],
