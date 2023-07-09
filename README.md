@@ -1,31 +1,23 @@
 ### Hi there 👋 
-#### Computer Science student at the University of Gdansk, aspiring Software Developer
+Computer Science student at the University of Gdansk, aspiring Software Developer
 
-```javascript
-const me = {
-  name: "Piotr",
-  spoken_languages: ["Polish", "English"],
-  skills: {
-    JavaScriptTypeScript: [
-      ["Node", "Express", "Nest"],
-      ["React", "Redux", "Next"],
-    ],
-    Java: ["Spring Boot", "Spring Data JPA", "Spring Security", "Maven"],
-    Go: ["Gin", "GORM"],
-    Scala: ["Akka"],
-    Python: ["Flask", "Numpy", "Pandas", "Keras"],
-    Databases: ["Mongo", "SQL", "Neo4j", "Redis"],
-    Devops: ["Docker", "Nginx", "Github Actions"],
-    Styling: ["CSS", "SCSS", "Tailwind"],
-    Others: ["Bash", "Git", "Testing"],
-  },
-  currently_learning: ["K8s", "Keycloak"],
-};
-```
+#### 💻 Skills:
+- **Java**: Proficient in Java, including Spring Boot, Spring Data JPA, Spring Security, and Maven.
+- **JavaScript/TypeScript**: Familiar with Node.js, Express, React, and Redux.
+- **Databases**: Experienced in SQL, MongoDB, and Redis.
+- **REST APIs**
+- **Testing**
+- **Docker**
+- **Go, Scala, Python**
+- **Git** and **GitHub Actions**
+- **Linux**
+- **HTML/CSS/SCSS**
 
-📫 How to reach me:
-- https://www.linkedin.com/in/piotr-damrych-146a1421a/
-- piotr.damrych@icloud.com
+#### 🌱 Currently learning:
+- **Kubernetes**
+
+#### 📫 Connect with me:
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/piotr-damrych-146a1421a/) or via email at piotr.damrych@icloud.com
 
 <!--
 **piotrd22/piotrd22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
