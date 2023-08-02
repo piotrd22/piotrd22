@@ -2,7 +2,8 @@
 Computer Science student at the University of Gdansk, aspiring Software Developer
 
 #### 💻 Skills:
-- **Java**: Proficient in Java, including Spring Boot, Spring Data JPA, Spring Security, and Maven.
+- **Java**: Proficient in Java, including Spring Boot, Spring Data JPA, Spring Security and Maven.
+- **.NET with C#**: Experienced in C#, including ASP.NET Core, Entity Framework
 - **JavaScript/TypeScript**: Familiar with Node.js, Express, React, and Redux.
 - **Databases**: Experienced in SQL, MongoDB, and Redis.
 - **REST APIs**
