@@ -2,8 +2,8 @@
 Computer Science student at the University of Gdańsk
 
 #### 💻 Skills:
-- **Java**: Proficient in Java, including Spring Boot, Spring Data JPA, Spring Security and Maven.
-- **.NET with C#**: Experienced in C#, including ASP.NET Core, Entity Framework and NHibernate.
+- **Java**: Proficient in Java, including Spring Boot, Spring Data JPA (Hibernate), Spring Security, JUnit, Mockito, Maven and Gradle.
+- **.NET with C#**: Experienced in C#, including ASP.NET Core, Entity Framework, NHibernate and SignalR.
 - **JavaScript/TypeScript**: Familiar with Node.js, Express, React and Redux.
 - **Databases**: Experienced in SQL, MongoDB, Redis and Neo4j basics.
 - **REST APIs**
@@ -13,11 +13,12 @@ Computer Science student at the University of Gdańsk
 - **Go, Scala, Python**
 - **Git** and **GitHub Actions**
 - **Linux**
-- **HTML/CSS/SCSS**
-
+  
 #### 🌱 Currently learning:
 - **Kubernetes**
-- **Microservices architecture**
+- **Microservices**
+- **Cloud Providers**
+- **Spring Cloud**
 
 #### 📫 Connect with me:
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/piotr-damrych-146a1421a/) or via email at piotr.damrych@icloud.com
