@@ -2,10 +2,10 @@
 Computer Science student at the University of Gdańsk
 
 #### 💻 Skills:
-- **Java**: Proficient in Java, including Spring Boot, Spring Data JPA (Hibernate), Spring Security, JUnit, Mockito, Maven and Gradle.
+- **Java**: Proficient in Java, including Spring, Hibernate, JPA, JUnit, Mockito, Maven and Gradle.
 - **.NET with C#**: Experienced in C#, including ASP.NET Core, Entity Framework, NHibernate and SignalR.
 - **JavaScript/TypeScript**: Familiar with Node.js, Express, React and Redux.
-- **Databases**: Experienced in SQL, MongoDB, Redis and Neo4j basics.
+- **Databases**: Experienced in SQL, MongoDB and Redis.
 - **REST APIs**
 - **Testing**
 - **Docker**
