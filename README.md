@@ -1,11 +1,9 @@
 ### Hi there 👋 
 
 #### 🚀 About me
-- 🎓 Computer Science Student @ University of Gdańsk
+- 🎓 Bachelor degree in Computer Science
 - 💻 Junior Java Developer
-
-#### 🛠 Currently working on
-- [Homeo](https://github.com/HomeoProject/Homeo) - Group Diploma Project
+- 🏃‍♂️ Enthusiast of sports, 🥘 cooking, and 🎬 movies
 
 #### 📫 Connect with me
 - Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/piotr-damrych-146a1421a/) or via email at piotr.damrych@icloud.com
