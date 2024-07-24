@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 #### 🚀 About me
-- 🎓 Bachelor degree in Computer Science
+- 🎓 Bachelor's degree in Computer Science
 - 💻 Junior Java Developer
 - 🏃‍♂️ Enthusiast of sports, 🥘 cooking, and 🎬 movies
 
