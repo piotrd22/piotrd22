@@ -1,12 +1,12 @@
 ### Hi there 👋 
 
 #### 🚀 About me
-- 🎓 Bachelor's degree in Computer Science
-- 💻 Junior Java Developer
-- 🏃‍♂️ Enthusiast of sports, 🥘 cooking, and 🎬 movies
+I'm Piotr, a Polish dev with a bachelor's degree in Computer Science. I focus on backend development, mainly within the Java ecosystem, and have a keen interest in distributed systems and modular monoliths.
+
+In my free time, I enjoy staying active through sports, experimenting with new recipes in the kitchen, and relaxing with a good movie.
 
 #### 📫 Connect with me
-- Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/piotr-damrych-146a1421a/) or via email at piotr.damrych@icloud.com
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/piotr-damrych-146a1421a/) or via email at piotr.damrych@icloud.com
 
 <!--
 **piotrd22/piotrd22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
